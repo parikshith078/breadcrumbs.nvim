@@ -13,4 +13,5 @@ function M.get_buf_option(opt)
   end
 end
 
+
 return M
